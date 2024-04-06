@@ -4,55 +4,29 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cybersecurity and IT Certifications</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f2f2f2;
-        }
-        .container {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h2 {
-            color: #333;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            margin-bottom: 10px;
-        }
-        a {
-            color: #007bff;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
 </head>
 <body>
 
-<div class="container">
-    <h2>General Cybersecurity Certifications:</h2>
-    <ul>
-        <li><a href="#">CompTIA Security+</a></li>
-        <li><a href="#">Certified Information Systems Security Professional (CISSP)</a></li>
-        <li><a href="#">Certified Ethical Hacker (CEH)</a></li>
-        <li><a href="#">Certified Information Security Manager (CISM)</a></li>
-        <li><a href="#">Certified Information Systems Auditor (CISA)</a></li>
-    </ul>
+<h1>Cybersecurity and IT Certifications</h1>
 
-    <!-- Repeat the above structure for other categories -->
+<h2>1. General Cybersecurity Certifications:</h2>
+<ul>
+    <li><strong>CompTIA Security+</strong>: Vendor-neutral certification covering foundational principles.</li>
+    <li><strong>Certified Information Systems Security Professional (CISSP)</strong>: Advanced certification for security professionals.</li>
+    <li><strong>Certified Ethical Hacker (CEH)</strong>: Focuses on ethical hacking techniques and tools.</li>
+    <li><strong>Certified Information Security Manager (CISM)</strong>: For managing, designing, and overseeing an enterprise's information security program.</li>
+    <li><strong>Certified Information Systems Auditor (CISA)</strong>: Focuses on auditing, control, and assurance of information systems.</li>
+</ul>
 
-</div>
+<h2>2. Network Security Certifications:</h2>
+<ul>
+    <li><strong>Cisco Certified Network Associate (CCNA) Security</strong>: Entry-level certification for network security specialists.</li>
+    <li><strong>Cisco Certified Network Professional (CCNP) Security</strong>: Advanced certification for network security engineers.</li>
+    <li><strong>Check Point Certified Security Administrator (CCSA)</strong>: For managing Check Point Security Gateway and Management software blades.</li>
+    <li><strong>Check Point Certified Security Expert (CCSE)</strong>: Advanced certification for Check Point security experts.</li>
+</ul>
+
+<!-- Repeat the above structure for the remaining categories -->
 
 </body>
 </html>
